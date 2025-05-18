@@ -17,5 +17,8 @@
     "url": "https://github.com/ribeirovoith/projeto-front-backend2/issues"
   },
   "homepage": "https://github.com/ribeirovoith/projeto-front-backend2#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
